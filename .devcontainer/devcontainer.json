@@ -3,7 +3,7 @@
 {
 	"name": "Scala",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "santanamartins/scala-dev-env:latest",
+	"image": "ghcr.io/progfunc-2025-q2/scala-dev-env:latest",
 	"customizations": {
 		"vscode": {
 			"extensions": [
