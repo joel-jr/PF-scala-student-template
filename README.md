@@ -1,18 +1,18 @@
-# Ambiente de Desenvolvimento Scala com DevContainer
+# Ambiente de desenvolvimento Scala com DevContainer
 
 Este repositório contém um ambiente de desenvolvimento pré-configurado utilizando **DevContainer** para a disciplina de Programação Funcional em Scala.
 
 ## O que é um DevContainer?
 Um DevContainer é um ambiente de desenvolvimento isolado, baseado em containers, que garante que todos os alunos tenham as mesmas ferramentas e configurações, facilitando o desenvolvimento e evitando problemas de incompatibilidade.
 
-## Ferramentas Disponíveis
+## Ferramentas disponíveis
 - **Scala**: Linguagem principal do curso.
-- **Metals**: Extensão do VS Code para suporte avançado a Scala (autocompletar, lint, refatoração, etc).
-- **SBT**: Ferramenta de build para projetos Scala (já incluída na imagem do container).
+- **Metals**: Extensão do VS Code que provê um language server para suporte avançado a Scala (autocompletar, lint, refatoração, etc).
+- **SBT**: Ferramenta de build para projetos Scala.
 
-## Como Utilizar
+## Como utilizar
 
-### 1. Usando o GitHub Codespaces (Recomendado)
+### 1. Usando o GitHub Codespaces (recomendado)
 O **GitHub Codespaces** permite que você abra este projeto em um ambiente de desenvolvimento completo, direto no navegador, sem precisar instalar nada na sua máquina. Basta clicar no botão **"Code"** no repositório do GitHub e selecionar **"Open with Codespaces"** (ou "Abrir com Codespaces").
 
 - O Codespaces já configura automaticamente o DevContainer.
@@ -20,7 +20,7 @@ O **GitHub Codespaces** permite que você abra este projeto em um ambiente de de
 - Basta abrir o terminal integrado e usar os comandos normalmente (`sbt compile`, `sbt run`, etc).
 - **Esta é a forma preferencial de uso, pois elimina problemas de configuração local.**
 
-### 2. Usando Docker e VS Code Localmente
+### 2. Usando Docker e VS Code localmente
 Caso prefira rodar localmente:
 
 1. **Pré-requisitos**:
