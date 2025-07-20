@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /workspaces/PF-scala-student-template/w1,2-intro-func-prog+scala/src/main/scala/Lists.scala:52:4 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m52 |[0m    printlN([31ms"\n• Decomposing List:"[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m    ^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m    Not found: printlN - did you mean println?[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

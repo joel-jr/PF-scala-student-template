@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 25 products, 9 sources, 2 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/w1,2-intro-func-prog+scala/src/main/scala/FuncionalStructure.scala, ${BASE}/w1,2-intro-func-prog+scala/src/main/scala/Expressions.scala, ${BASE}/w1,2-intro-func-prog+scala/src/main/scala/Lists.scala, ${BASE}/w1,2-intro-func-prog+scala/src/main/scala/OOStructure.scala, ${BASE}/w1,2-intro-func-prog+scala/src/main/scala/Output.scala, ${BASE}/w1,2-intro-func-prog+scala/src/main/scala/HelloWorld.scala, ${BASE}/w1,2-intro-func-prog+scala/src/main/scala/OOStructureBraces.scala, ${BASE}/w1,2-intro-func-prog+scala/src/main/scala/Variables.scala, ${BASE}/w1,2-intro-func-prog+scala/src/main/scala/Typing.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo changes[0m
